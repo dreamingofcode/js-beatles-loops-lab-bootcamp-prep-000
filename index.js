@@ -25,4 +25,4 @@ var newfactsarray=[]
 function iLoveTheBeatles(n){
   var empty=[];
 }
-  
+  do {
