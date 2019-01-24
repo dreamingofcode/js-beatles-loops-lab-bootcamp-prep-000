@@ -26,7 +26,7 @@ function iLoveTheBeatles(n){
   var empty=[];
 
   do {empty.push("I love the Beatles!")}
-  while (n>15)
+  while (n<5)
   n++
   return empty
 }
