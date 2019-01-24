@@ -22,12 +22,12 @@ var newfactsarray=[]
   return newfactsarray
 }
 
-function iLoveTheBeatles(n){
+function iLoveTheBeatles(number){
   var empty=[];
-n++ ;
+number++ ;
   do {empty.push("I love the Beatles!")}
  
- while (n>15)
+ while (number>15)
   
   return empty
 }
