@@ -23,15 +23,15 @@ var newfactsarray=[]
 }
 
 function iLoveTheBeatles(number){
-  var empt=[];
+  var empty=[];
 
   do {
-    empt.push("I love the Beatles!");
+    empty.push("I love the Beatles!");
     number++ ;
   }
  
  while (number<15)
   
-  return empt
+  return empty
 }
 
