@@ -22,3 +22,7 @@ var newfactsarray=[]
   return newfactsarray
 }
 
+function iLoveTheBeatles(n){
+  var empty=[]
+  
+}
