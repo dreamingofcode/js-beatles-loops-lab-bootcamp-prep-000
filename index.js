@@ -25,4 +25,5 @@ var newfactsarray=[]
 function iLoveTheBeatles(n){
   var empty=[];
 }
-  do {
+  do { empty.push("I love the Beatles")}
+  while (n>15)
